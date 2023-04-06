@@ -2,6 +2,9 @@
 //  AppDelegate.swift
 //  Project1
 //
+//  Course: 100 days of Swift
+//  Taught by Paul Hudson
+//
 //  Created by Lucas Lumertz on 28/02/23.
 //
 
